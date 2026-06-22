@@ -4,7 +4,7 @@ A deep learning project that classifies real-world images into different scene c
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 This project builds an image classification model using CNN to automatically identify scenes from images. The model is trained on the Intel Image Classification dataset and can classify images into six categories:
 
